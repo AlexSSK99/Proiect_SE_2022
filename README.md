@@ -4,7 +4,8 @@ Proiectul ales constă în realizarea unui calculator simplu care are ca intrare
 
 
 
-/*
+
+
 	In cadrul programului s-au folosit:
 	5 mesaje de tipul unsigned char,
 	variabile tip long pentru termenii operatiei de efectuat: Op1, Op2
@@ -38,4 +39,4 @@ Proiectul ales constă în realizarea unui calculator simplu care are ca intrare
 		- void br()
 			trimite newline si carriage return
 	
-*/
+
