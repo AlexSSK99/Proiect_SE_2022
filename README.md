@@ -1,5 +1,9 @@
 # Proiect_SE_2022
 
+Proiectul ales constă în realizarea unui calculator simplu care are ca intrare două numere (n1 și n2) de tipul întreg, simbolul pentru operația aleasă (+, -, *, /) și oferă ca ieșire rezultatul operației dintre n1 și n2. În cazul în care este introdus un simbol invalid pentru operație, se va efectua suma celor două numere.
+
+
+
 /*
 	In cadrul programului s-au folosit:
 	5 mesaje de tipul unsigned char,
